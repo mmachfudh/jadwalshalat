@@ -10,7 +10,13 @@ pemrograman html, css, javascript, php dan beberapa framework. Dibangun berbasis
 ## Algoritma Program
 > ### Konversi Tanggal ke JD
 
-![Tampilan-awal](https://pejalancoding.site/img/JD.PNG)
+![AG-1](https://pejalancoding.site/img/JD.PNG)
+
+> ### Konversi JD ke Jadwal Shalat
+
+![AG-2](https://pejalancoding.site/img/SH.PNG)
+
+## Tampilan Program
 
 > ### Tampilan awal
 
@@ -28,12 +34,5 @@ pemrograman html, css, javascript, php dan beberapa framework. Dibangun berbasis
 > ### 3. Menampilkan informasi jadwal shalat bulanan
 
 ![fiture-3](https://pejalancoding.site/img/JS4.PNG)
-
-Menggunakan database manual yang tersimpan pada file "databaseKota.php"
-Pada file database terdapat informasi sebagai berikut:
-1. Nama Kota
-2. Lintang
-3. Bujur
-4. H
 
 
